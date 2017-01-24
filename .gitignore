@@ -1,1 +1,3 @@
-# Created by .ignore support plugin (hsz.mobi)
+.idea
+awesome-java-lib.iml
+pom.xml.*
