@@ -72,6 +72,7 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
 - com.alibaba:fastjson:1.2.24
 - com.google.code.gson:gson:2.8.0
 - org.jsoup:jsoup:1.10.2
+- **javax**
 - javax.servlet:javax.servlet-api:3.1.0
 - javax.mail:javax.mail-api:1.5.6
 - **rpc**

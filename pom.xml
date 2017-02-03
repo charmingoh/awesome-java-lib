@@ -3,9 +3,14 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+
     <groupId>com.charmingoh</groupId>
     <artifactId>awesome-java-lib</artifactId>
     <version>0.1.0</version>
+    <packaging>pom</packaging>
+    <name>awesome-java-lib</name>
+    <description>frequently used java libraries</description>
+    <url>https://github.com/charmingoh/awesome-java-lib</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -326,4 +331,58 @@
             <!-- test end -->
         </dependencies>
     </dependencyManagement>
+
+    <build>
+        <plugins>
+            <!-- To use the plugin goals in your POM or parent POM -->
+            <!-- usage: http://maven.apache.org/plugins/maven-gpg-plugin/usage.html -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-gpg-plugin</artifactId>
+                <version>1.6</version>
+                <executions>
+                    <execution>
+                        <id>sign-artifacts</id>
+                        <phase>verify</phase>
+                        <goals>
+                            <goal>sign</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+
+    <distributionManagement>
+        <snapshotRepository>
+            <id>sonatype</id>
+            <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
+        </snapshotRepository>
+        <repository>
+            <id>sonatype</id>
+            <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+        </repository>
+    </distributionManagement>
+
+    <developers>
+        <developer>
+            <name>Charming</name>
+            <email>oycharming@gmail.com</email>
+        </developer>
+    </developers>
+    <scm>
+        <connection>scm:git@github.com:charmingoh/awesome-java-lib.git</connection>
+        <developerConnection>scm:git@github.com:charmingoh/awesome-java-lib.git</developerConnection>
+        <url>git@github.com:charmingoh/awesome-java-lib.git</url>
+    </scm>
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+    <issueManagement>
+        <system>Github Issue</system>
+        <url>https://github.com/charmingoh/awesome-java-lib/issues</url>
+    </issueManagement>
 </project>
