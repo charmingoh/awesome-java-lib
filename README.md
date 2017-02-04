@@ -69,7 +69,7 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
 - org.apache.httpcomponents:httpcore:4.4.6
 - org.quartz-scheduler:quartz:2.2.3
 - **parser**
-- com.alibaba:fastjson:1.2.24
+- [com.alibaba:fastjson](https://github.com/alibaba/fastjson) :1.2.24
 - com.google.code.gson:gson:2.8.0
 - org.jsoup:jsoup:1.10.2
 - **javax**
