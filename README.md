@@ -1,4 +1,4 @@
-# awesome-java-lib ![version](https://img.shields.io/badge/version-0.1.0-blue.svg)
+# awesome-java-lib ![version | [website](https://img.shields.io/badge/version-0.1.0-blue.svg)
 
 With `awesome-java-lib`, you can add dependency(frequently used) without add `<version>` attribute at pom.xml.
 
@@ -45,14 +45,14 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
 ### 0.1.0 - 2017-02-03
 #### Added
 - **util**
-- commons-beanutils:commons-beanutils:[1.9.3](http://commons.apache.org/proper/commons-beanutils/)
-- [commons-codec:commons-codec](http://commons.apache.org/proper/commons-codec/) :1.10
-- [org.apache.commons:commons-collections4](http://commons.apache.org/proper/commons-collections/) :4.1
-- [commons-collections:commons-collections](http://commons.apache.org/proper/commons-collections/) :3.2.2
-- [org.apache.commons:commons-csv](http://commons.apache.org/proper/commons-csv/) :1.4
-- [org.apache.commons:commons-dbcp2](http://commons.apache.org/proper/commons-dbcp/) :2.1.1
-- [commons-dbcp:commons-dbcp](http://commons.apache.org/proper/commons-dbcp/) :1.4
-- [commons-fileupload:commons-fileupload](http://commons.apache.org/proper/commons-fileupload/) :1.3.2
+- commons-beanutils:commons-beanutils:1.9.3 | [website](http://commons.apache.org/proper/commons-beanutils/)
+- commons-codec:commons-codec:1.10 | [website](http://commons.apache.org/proper/commons-codec/)
+- org.apache.commons:commons-collections4:4.1 | [website](http://commons.apache.org/proper/commons-collections/)
+- commons-collections:commons-collections:3.2.2 | [website](http://commons.apache.org/proper/commons-collections/)
+- org.apache.commons:commons-csv:1.4 | [website](http://commons.apache.org/proper/commons-csv/)
+- org.apache.commons:commons-dbcp2:2.1.1 | [website](http://commons.apache.org/proper/commons-dbcp/)
+- commons-dbcp:commons-dbcp:1.4 | [website](http://commons.apache.org/proper/commons-dbcp/)
+- commons-fileupload:commons-fileupload:1.3.2 | [website](http://commons.apache.org/proper/commons-fileupload/)
 - commons-io:commons-io:2.5
 - org.apache.commons:commons-io:1.3.2
 - org.apache.commons:commons-lang3:3.5
@@ -69,7 +69,7 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
 - org.apache.httpcomponents:httpcore:4.4.6
 - org.quartz-scheduler:quartz:2.2.3
 - **parser**
-- [com.alibaba:fastjson](https://github.com/alibaba/fastjson) :1.2.24
+- com.alibaba:fastjson:1.2.24 | [website](https://github.com/alibaba/fastjson)
 - com.google.code.gson:gson:2.8.0
 - org.jsoup:jsoup:1.10.2
 - **javax**
