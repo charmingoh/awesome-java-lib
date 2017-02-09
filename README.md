@@ -51,9 +51,9 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
 - org.apache.commons:commons-csv:1.4 | [website](http://commons.apache.org/proper/commons-csv/)
 - org.apache.commons:commons-dbcp2:2.1.1 | [website](http://commons.apache.org/proper/commons-dbcp/)
 - commons-fileupload:commons-fileupload:1.3.2 | [website](http://commons.apache.org/proper/commons-fileupload/)
-- commons-io:commons-io:2.5
+- commons-io:commons-io:2.5 | [website](http://commons.apache.org/proper/commons-io/)
 - org.apache.commons:commons-lang3:3.5
-- commons-logging:commons-logging:1.2
+- commons-logging:commons-logging:1.2 | [website](http://commons.apache.org/proper/commons-logging/)
 - org.apache.commons:commons-pool2:2.4.2
 - com.google.guava:guava:21.0
 - com.google.inject:guice:4.1.0
