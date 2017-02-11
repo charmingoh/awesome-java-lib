@@ -54,7 +54,7 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
 - commons-io:commons-io:2.5 | [website](http://commons.apache.org/proper/commons-io/)
 - org.apache.commons:commons-lang3:3.5
 - commons-logging:commons-logging:1.2 | [website](http://commons.apache.org/proper/commons-logging/)
-- org.apache.commons:commons-pool2:2.4.2
+- org.apache.commons:commons-pool2:2.4.2 | [website](http://commons.apache.org/proper/commons-pool/)
 - com.google.guava:guava:21.0
 - com.google.inject:guice:4.1.0
 - joda-time:joda-time:2.9.7
@@ -71,7 +71,7 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
 - javax.servlet:javax.servlet-api:3.1.0
 - javax.mail:javax.mail-api:1.5.6
 - **rpc**
-- com.alibaba:dubbo:2.5.3
+- com.alibaba:dubbo:2.5.3 | [website](https://github.com/alibaba/dubbo)
 - org.apache.zookeeper:zookeeper:3.4.9
 - com.github.sgroschupf:zkclient:0.1
 - org.apache.curator:curator-framework:3.2.1
@@ -80,7 +80,7 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
 - org.aspectj:aspectjrt:1.8.10
 - org.aspectj:aspectjweaver:1.8.10
 - **db**
-- com.alibaba:druid:1.0.27
+- com.alibaba:druid:1.0.27 | [website](https://github.com/alibaba/druid)
 - org.mybatis:mybatis:3.4.2
 - org.mybatis:mybatis-spring:1.3.1
 - mysql:mysql-connector-java:6.0.5
