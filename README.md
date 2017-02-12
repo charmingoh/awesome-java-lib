@@ -52,55 +52,53 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
 - org.apache.commons:commons-dbcp2:2.1.1 | [website](http://commons.apache.org/proper/commons-dbcp/)
 - commons-fileupload:commons-fileupload:1.3.2 | [website](http://commons.apache.org/proper/commons-fileupload/)
 - commons-io:commons-io:2.5 | [website](http://commons.apache.org/proper/commons-io/)
-- org.apache.commons:commons-lang3:3.5
+- org.apache.commons:commons-lang3:3.5 | [website](http://commons.apache.org/proper/commons-lang/)
 - commons-logging:commons-logging:1.2 | [website](http://commons.apache.org/proper/commons-logging/)
 - org.apache.commons:commons-pool2:2.4.2 | [website](http://commons.apache.org/proper/commons-pool/)
-- com.google.guava:guava:21.0
-- com.google.inject:guice:4.1.0
-- joda-time:joda-time:2.9.7
-- org.apache.httpcomponents:fluent-hc:4.5.3
-- org.apache.httpcomponents:httpclient:4.5.3
-- org.apache.httpcomponents:httpmime:4.5.3
-- org.apache.httpcomponents:httpcore:4.4.6
-- org.quartz-scheduler:quartz:2.2.3
+- com.google.guava:guava:21.0 | [website](https://github.com/google/guava)
+- com.google.inject:guice:4.1.0 | [website](https://github.com/google/guice)
+- joda-time:j:2.9.7 | [website](http://www.joda.org/joda-time/)
+- org.apache.httpcomponents:fluent-hc:4.5.3 | [website](https://hc.apache.org/)
+- org.apache.httpcomponents:httpclient:4.5.3 | [website](https://hc.apache.org/)
+- org.apache.httpcomponents:httpmime:4.5.3 | [website](https://hc.apache.org/)
+- org.apache.httpcomponents:httpcore:4.4.6 | [website](https://hc.apache.org/)
+- org.quartz-scheduler:quartz:2.2.3 | [website](http://www.quartz-scheduler.org/)
 - **parser**
 - com.alibaba:fastjson:1.2.24 | [website](https://github.com/alibaba/fastjson)
-- com.google.code.gson:gson:2.8.0
-- org.jsoup:jsoup:1.10.2
+- com.google.code.gson:gson:2.8.0 | [website](https://github.com/google/gson)
+- org.jsoup:jsoup:1.10.2 | [website](https://jsoup.org/)
 - **javax**
 - javax.servlet:javax.servlet-api:3.1.0
 - javax.mail:javax.mail-api:1.5.6
 - **rpc**
 - com.alibaba:dubbo:2.5.3 | [website](https://github.com/alibaba/dubbo)
-- org.apache.zookeeper:zookeeper:3.4.9
-- com.github.sgroschupf:zkclient:0.1
-- org.apache.curator:curator-framework:3.2.1
-- com.netflix.curator:curator-framework:1.3.3
+- org.apache.zookeeper:zookeeper:3.4.9 | [website](https://zookeeper.apache.org/)
+- com.github.sgroschupf:zkclient:0.1 | [website](https://github.com/sgroschupf/zkclient)
+- org.apache.curator:curator-framework:3.2.1 | [website](http://curator.apache.org/)
 - **aop**
-- org.aspectj:aspectjrt:1.8.10
-- org.aspectj:aspectjweaver:1.8.10
+- org.aspectj:aspectjrt:1.8.10 | [website](http://www.eclipse.org/aspectj/)
+- org.aspectj:aspectjweaver:1.8.10 | [website](http://www.eclipse.org/aspectj/)
 - **db**
 - com.alibaba:druid:1.0.27 | [website](https://github.com/alibaba/druid)
-- org.mybatis:mybatis:3.4.2
-- org.mybatis:mybatis-spring:1.3.1
-- mysql:mysql-connector-java:6.0.5
-- org.mariadb.jdbc:mariadb-java-client:1.5.7
-- redis.clients:jedis:2.9.0
-- org.mongodb:mongodb-driver:3.4.2
-- org.mongodb:mongo-java-driver:3.4.2
+- org.mybatis:mybatis:3.4.2 | [website](http://www.mybatis.org/mybatis-3/)
+- org.mybatis:mybatis-spring:1.3.1 | [website](http://www.mybatis.org/spring/)
+- mysql:mysql-connector-java:6.0.5 | [website](https://github.com/mysql/mysql-connector-j)
+- redis.clients:jedis:2.9.0 | [website](https://github.com/xetorthio/jedis)
+- org.mongodb:mongodb-driver:3.4.2 | [website](https://docs.mongodb.com/ecosystem/drivers/java/)
+- org.mongodb:mongo-java-driver:3.4.2 | [website](https://docs.mongodb.com/ecosystem/drivers/java/)
 - **log**
-- ch.qos.logback:logback-classic:1.1.9
-- ch.qos.logback:logback-core:1.1.9
-- org.slf4j:slf4j-api:1.7.22
-- org.slf4j:log4j-over-slf4j:1.7.22
-- org.slf4j:jcl-over-slf4j:1.7.22
-- org.slf4j:slf4j-log4j12:1.7.22
-- log4j:log4j:1.2.17
+- ch.qos.logback:logback-classic:1.1.9 | [website](https://logback.qos.ch/)
+- ch.qos.logback:logback-core:1.1.9 | [website](https://logback.qos.ch/)
+- org.slf4j:slf4j-api:1.7.22 | [website](https://www.slf4j.org/)
+- org.slf4j:log4j-over-slf4j:1.7.22 | [website](https://www.slf4j.org/)
+- org.slf4j:jcl-over-slf4j:1.7.22 | [website](https://www.slf4j.org/)
+- org.slf4j:slf4j-log4j12:1.7.22 | [website](https://www.slf4j.org/)
+- log4j:log4j:1.2.17 | [website](https://logging.apache.org/log4j/1.2/)
 - **test**
-- junit:junit:4.12
-- org.mockito:mockito-core:2.6.9
-- org.mockito:mockito-all:1.10.19
-- org.testng:testng:6.10
+- junit:junit:4.12 | [website](http://junit.org/junit4/)
+- org.mockito:mockito-core:2.6.9 | [website](https://github.com/mockito/mockito)
+- org.mockito:mockito-all:1.10.19 | [website](https://github.com/mockito/mockito)
+- org.testng:testng:6.10 | [website](http://testng.org/)
 
 [Unreleased]: https://github.com/charmingoh/awesome-java-lib/compare/v0.1.0...HEAD
 [0.1.1]: https://github.com/charmingoh/awesome-java-lib/compare/v0.1.0...v0.1.1
