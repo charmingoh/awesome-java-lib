@@ -63,6 +63,7 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
 - org.apache.httpcomponents:httpmime:4.5.3 | [website](https://hc.apache.org/)
 - org.apache.httpcomponents:httpcore:4.4.6 | [website](https://hc.apache.org/)
 - org.quartz-scheduler:quartz:2.2.3 | [website](https://github.com/quartz-scheduler/quartz)
+- org.projectlombok:lombok:1.16.14 | [website](https://github.com/rzwitserloot/lombok)
 - **parser**
 - com.alibaba:fastjson:1.2.24 | [website](https://github.com/alibaba/fastjson)
 - com.google.code.gson:gson:2.8.0 | [website](https://github.com/google/gson)

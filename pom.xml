@@ -115,6 +115,12 @@
                 <artifactId>quartz</artifactId>
                 <version>2.2.3</version>
             </dependency>
+            <!-- lombok -->
+            <dependency>
+                <groupId>org.projectlombok</groupId>
+                <artifactId>lombok</artifactId>
+                <version>1.16.14</version>
+            </dependency>
             <!-- utils end -->
 
             <!-- parser begin -->
