@@ -57,7 +57,7 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
 - org.apache.commons:commons-pool2:2.4.2 | [website](http://commons.apache.org/proper/commons-pool/)
 - com.google.guava:guava:21.0 | [website](https://github.com/google/guava)
 - com.google.inject:guice:4.1.0 | [website](https://github.com/google/guice)
-- joda-time:j:2.9.7 | [website](https://github.com/JodaOrg/joda-time)
+- joda-time:joda-time:2.9.7 | [website](https://github.com/JodaOrg/joda-time)
 - org.apache.httpcomponents:fluent-hc:4.5.3 | [website](https://hc.apache.org/)
 - org.apache.httpcomponents:httpclient:4.5.3 | [website](https://hc.apache.org/)
 - org.apache.httpcomponents:httpmime:4.5.3 | [website](https://hc.apache.org/)
