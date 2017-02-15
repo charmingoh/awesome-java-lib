@@ -42,7 +42,7 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
 
 ### [Unreleased]
 
-### 0.1.0 - 2017-02-03
+### 0.1.0 - 2017-02-15
 #### Added
 - **util**
 - commons-beanutils:commons-beanutils:1.9.3 | [website](http://commons.apache.org/proper/commons-beanutils/)
