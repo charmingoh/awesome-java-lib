@@ -8,6 +8,7 @@
     <artifactId>awesome-java-lib</artifactId>
     <version>0.1.0</version>
     <packaging>pom</packaging>
+
     <name>awesome-java-lib</name>
     <description>frequently used java libraries</description>
     <url>https://github.com/charmingoh/awesome-java-lib</url>
@@ -305,6 +306,17 @@
 
     <build>
         <plugins>
+            <plugin>
+                <groupId>org.sonatype.plugins</groupId>
+                <artifactId>nexus-staging-maven-plugin</artifactId>
+                <version>1.6.7</version>
+                <extensions>true</extensions>
+                <configuration>
+                    <serverId>ossrh</serverId>
+                    <nexusUrl>https://oss.sonatype.org/</nexusUrl>
+                    <autoReleaseAfterClose>true</autoReleaseAfterClose>
+                </configuration>
+            </plugin>
             <!-- To use the plugin goals in your POM or parent POM -->
             <!-- usage: http://maven.apache.org/plugins/maven-gpg-plugin/usage.html -->
             <plugin>
@@ -326,15 +338,21 @@
 
     <distributionManagement>
         <snapshotRepository>
-            <id>sonatype</id>
-            <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
+            <id>ossrh</id>
+            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
         </snapshotRepository>
         <repository>
-            <id>sonatype</id>
+            <id>ossrh</id>
             <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
         </repository>
     </distributionManagement>
 
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
     <developers>
         <developer>
             <name>Charming</name>
@@ -342,16 +360,11 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git@github.com:charmingoh/awesome-java-lib.git</connection>
-        <developerConnection>scm:git@github.com:charmingoh/awesome-java-lib.git</developerConnection>
-        <url>git@github.com:charmingoh/awesome-java-lib.git</url>
+        <connection>scm:git:git://github.com/charmingoh/awesome-java-lib.git</connection>
+        <developerConnection>scm:git:ssh://github.com:charmingoh/awesome-java-lib.git</developerConnection>
+        <url>http://github.com/charmingoh/awesome-java-lib/tree/master</url>
     </scm>
-    <licenses>
-        <license>
-            <name>The Apache Software License, Version 2.0</name>
-            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-    </licenses>
+
     <issueManagement>
         <system>Github Issue</system>
         <url>https://github.com/charmingoh/awesome-java-lib/issues</url>
