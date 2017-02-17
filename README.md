@@ -1,4 +1,4 @@
-# awesome-java-lib [![Maven Central](https://img.shields.io/maven-central/v/com.charmingoh/awesome-java-lib.svg)]()
+# awesome-java-lib [![Maven Central](https://img.shields.io/maven-central/v/com.charmingoh/awesome-java-lib.svg)](https://maven-badges.herokuapp.com/maven-central/com.charmingoh/awesome-java-lib)
 
 With `awesome-java-lib`, you can add dependency(frequently used) without add `<version>` attribute at pom.xml.
 
