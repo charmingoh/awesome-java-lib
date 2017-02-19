@@ -38,12 +38,8 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
 </dependencies>
 ```
 
-## Change Log
+## dependency list
 
-### [Unreleased]
-
-### 0.1.0 - 2017-02-15
-#### Added
 - **util**
 - commons-beanutils:commons-beanutils:1.9.3 | [website](http://commons.apache.org/proper/commons-beanutils/)
 - commons-codec:commons-codec:1.10 | [website](http://commons.apache.org/proper/commons-codec/)
@@ -100,6 +96,14 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
 - org.mockito:mockito-core:2.6.9 | [website](https://github.com/mockito/mockito)
 - org.mockito:mockito-all:1.10.19 | [website](https://github.com/mockito/mockito)
 - org.testng:testng:6.10 | [website](https://github.com/cbeust/testng)
+
+## Change Log
+
+### [Unreleased]
+
+### 0.1.0 - 2017-02-15
+#### Added
+- init
 
 [Unreleased]: https://github.com/charmingoh/awesome-java-lib/compare/v0.1.0...HEAD
 [0.1.1]: https://github.com/charmingoh/awesome-java-lib/compare/v0.1.0...v0.1.1
