@@ -357,6 +357,10 @@
         <developer>
             <name>Charming</name>
             <email>oycharming@gmail.com</email>
+            <roles>
+                <role>architect</role>
+                <role>developer</role>
+            </roles>
         </developer>
     </developers>
     <scm>
