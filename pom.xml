@@ -49,97 +49,97 @@
                 <groupId>org.apache.commons</groupId>
                 <artifactId>commons-dbcp2</artifactId>
                 <version>2.1.1</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.apache.commons/commons-dbcp2) -->
             </dependency>
             <dependency>
                 <groupId>commons-fileupload</groupId>
                 <artifactId>commons-fileupload</artifactId>
                 <version>1.3.2</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/commons-fileupload/commons-fileupload) -->
             </dependency>
             <dependency>
                 <groupId>commons-io</groupId>
                 <artifactId>commons-io</artifactId>
                 <version>2.5</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/commons-io/commons-io) -->
             </dependency>
             <dependency>
                 <groupId>org.apache.commons</groupId>
                 <artifactId>commons-lang3</artifactId>
                 <version>3.5</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.apache.commons/commons-lang3) -->
             </dependency>
             <dependency>
                 <groupId>commons-logging</groupId>
                 <artifactId>commons-logging</artifactId>
                 <version>1.2</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/commons-logging/commons-logging) -->
             </dependency>
             <dependency>
                 <groupId>org.apache.commons</groupId>
                 <artifactId>commons-pool2</artifactId>
                 <version>2.4.2</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.apache.commons/commons-pool2) -->
             </dependency>
             <!-- guava -->
             <dependency>
                 <groupId>com.google.guava</groupId>
                 <artifactId>guava</artifactId>
                 <version>21.0</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/com.google.guava/guava) -->
             </dependency>
             <!-- guice -->
             <dependency>
                 <groupId>com.google.inject</groupId>
                 <artifactId>guice</artifactId>
                 <version>4.1.0</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/com.google.inject/guice) -->
             </dependency>
             <!-- time -->
             <dependency>
                 <groupId>joda-time</groupId>
                 <artifactId>joda-time</artifactId>
                 <version>2.9.7</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/joda-time/joda-time) -->
             </dependency>
             <!-- apache httpcomponents -->
             <dependency>
                 <groupId>org.apache.httpcomponents</groupId>
                 <artifactId>fluent-hc</artifactId>
                 <version>4.5.3</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.apache.httpcomponents/fluent-hc) -->
             </dependency>
             <dependency>
                 <groupId>org.apache.httpcomponents</groupId>
                 <artifactId>httpclient</artifactId>
                 <version>4.5.3</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.apache.httpcomponents/httpclient) -->
             </dependency>
             <dependency>
                 <groupId>org.apache.httpcomponents</groupId>
                 <artifactId>httpmime</artifactId>
                 <version>4.5.3</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.apache.httpcomponents/httpmime) -->
             </dependency>
             <dependency>
                 <groupId>org.apache.httpcomponents</groupId>
                 <artifactId>httpcore</artifactId>
                 <version>4.4.6</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.apache.httpcomponents/httpcore) -->
             </dependency>
             <!-- quartz -->
             <dependency>
                 <groupId>org.quartz-scheduler</groupId>
                 <artifactId>quartz</artifactId>
                 <version>2.2.3</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.quartz-scheduler/quartz) -->
             </dependency>
             <!-- lombok -->
             <dependency>
                 <groupId>org.projectlombok</groupId>
                 <artifactId>lombok</artifactId>
                 <version>1.16.14</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.projectlombok/lombok) -->
             </dependency>
             <!-- utils end -->
 
@@ -148,20 +148,20 @@
                 <groupId>com.alibaba</groupId>
                 <artifactId>fastjson</artifactId>
                 <version>1.2.24</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/com.alibaba/fastjson) -->
             </dependency>
             <dependency>
                 <groupId>com.google.code.gson</groupId>
                 <artifactId>gson</artifactId>
                 <version>2.8.0</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/com.google.code.gson/gson) -->
             </dependency>
             <!-- HTML -->
             <dependency>
                 <groupId>org.jsoup</groupId>
                 <artifactId>jsoup</artifactId>
                 <version>1.10.2</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.jsoup/jsoup) -->
             </dependency>
             <!-- parser end -->
 
@@ -171,13 +171,13 @@
                 <artifactId>javax.servlet-api</artifactId>
                 <version>3.1.0</version>
                 <scope>provided</scope>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/javax.servlet/javax.servlet-api) -->
             </dependency>
             <dependency>
                 <groupId>javax.mail</groupId>
                 <artifactId>javax.mail-api</artifactId>
                 <version>1.5.6</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/javax.mail/javax.mail-api) -->
             </dependency>
             <!-- javax end -->
 
@@ -192,25 +192,25 @@
                         <artifactId>spring</artifactId>
                     </exclusion>
                 </exclusions>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/com.alibaba/dubbo) -->
             </dependency>
             <dependency>
                 <groupId>org.apache.zookeeper</groupId>
                 <artifactId>zookeeper</artifactId>
                 <version>3.4.9</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.apache.zookeeper/zookeeper) -->
             </dependency>
             <dependency>
                 <groupId>com.github.sgroschupf</groupId>
                 <artifactId>zkclient</artifactId>
                 <version>0.1</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/com.github.sgroschupf/zkclient) -->
             </dependency>
             <dependency>
                 <groupId>org.apache.curator</groupId>
                 <artifactId>curator-framework</artifactId>
                 <version>3.2.1</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.apache.curator/curator-framework) -->
             </dependency>
             <!-- rpc end -->
 
@@ -219,13 +219,13 @@
                 <groupId>org.aspectj</groupId>
                 <artifactId>aspectjrt</artifactId>
                 <version>1.8.10</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.aspectj/aspectjrt) -->
             </dependency>
             <dependency>
                 <groupId>org.aspectj</groupId>
                 <artifactId>aspectjweaver</artifactId>
                 <version>1.8.10</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.aspectj/aspectjweaver) -->
             </dependency>
             <!-- aop end -->
 
@@ -234,43 +234,43 @@
                 <groupId>com.alibaba</groupId>
                 <artifactId>druid</artifactId>
                 <version>1.0.27</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/com.alibaba/druid) -->
             </dependency>
             <dependency>
                 <groupId>org.mybatis</groupId>
                 <artifactId>mybatis</artifactId>
                 <version>3.4.2</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.mybatis/mybatis) -->
             </dependency>
             <dependency>
                 <groupId>org.mybatis</groupId>
                 <artifactId>mybatis-spring</artifactId>
                 <version>1.3.1</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.mybatis/mybatis-spring) -->
             </dependency>
             <dependency>
                 <groupId>mysql</groupId>
                 <artifactId>mysql-connector-java</artifactId>
                 <version>6.0.5</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/mysql/mysql-connector-java) -->
             </dependency>
             <dependency>
                 <groupId>redis.clients</groupId>
                 <artifactId>jedis</artifactId>
                 <version>2.9.0</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/redis.clients/jedis) -->
             </dependency>
             <dependency>
                 <groupId>org.mongodb</groupId>
                 <artifactId>mongodb-driver</artifactId>
                 <version>3.4.2</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.mongodb/mongodb-driver) -->
             </dependency>
             <dependency>
                 <groupId>org.mongodb</groupId>
                 <artifactId>mongo-java-driver</artifactId>
                 <version>3.4.2</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.mongodb/mongo-java-driver) -->
             </dependency>
             <!-- db end -->
 
@@ -279,43 +279,43 @@
                 <groupId>ch.qos.logback</groupId>
                 <artifactId>logback-classic</artifactId>
                 <version>1.1.9</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/ch.qos.logback/logback-classic) -->
             </dependency>
             <dependency>
                 <groupId>ch.qos.logback</groupId>
                 <artifactId>logback-core</artifactId>
                 <version>1.1.9</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/ch.qos.logback/logback-core) -->
             </dependency>
             <dependency>
                 <groupId>org.slf4j</groupId>
                 <artifactId>slf4j-api</artifactId>
                 <version>1.7.22</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.slf4j/slf4j-api) -->
             </dependency>
             <dependency>
                 <groupId>org.slf4j</groupId>
                 <artifactId>log4j-over-slf4j</artifactId>
                 <version>1.7.22</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.slf4j/log4j-over-slf4j) -->
             </dependency>
             <dependency>
                 <groupId>org.slf4j</groupId>
                 <artifactId>jcl-over-slf4j</artifactId>
                 <version>1.7.22</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.slf4j/jcl-over-slf4j) -->
             </dependency>
             <dependency>
                 <groupId>org.slf4j</groupId>
                 <artifactId>slf4j-log4j12</artifactId>
                 <version>1.7.22</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.slf4j/slf4j-log4j12) -->
             </dependency>
             <dependency>
                 <groupId>log4j</groupId>
                 <artifactId>log4j</artifactId>
                 <version>1.2.17</version>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/log4j/log4j) -->
             </dependency>
             <!-- logging end -->
 
@@ -325,28 +325,28 @@
                 <artifactId>junit</artifactId>
                 <version>4.12</version>
                 <scope>test</scope>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/junit/junit) -->
             </dependency>
             <dependency>
                 <groupId>org.mockito</groupId>
                 <artifactId>mockito-core</artifactId>
                 <version>2.6.9</version>
                 <scope>test</scope>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.mockito/mockito-core) -->
             </dependency>
             <dependency>
                 <groupId>org.mockito</groupId>
                 <artifactId>mockito-all</artifactId>
                 <version>1.10.19</version>
                 <scope>test</scope>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.mockito/mockito-all) -->
             </dependency>
             <dependency>
                 <groupId>org.testng</groupId>
                 <artifactId>testng</artifactId>
                 <version>6.10</version>
                 <scope>test</scope>
-                <!-- [Javadocs](http://www.javadoc.io/doc/commons-codec/commons-codec) -->
+                <!-- [Javadocs](http://www.javadoc.io/doc/org.testng/testng) -->
             </dependency>
             <!-- test end -->
         </dependencies>
