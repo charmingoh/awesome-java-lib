@@ -3,7 +3,7 @@
 With `awesome-java-lib`, you can add dependency(frequently used) without add `<version>` attribute at pom.xml.
 
 ## usage
----
+
 **pom.xml**:
 
 ```xml
@@ -39,7 +39,7 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
 ```
 
 ## dependency list
----
+
 - commons-beanutils:commons-beanutils:1.9.3 [![Javadocs](http://www.javadoc.io/badge/commons-beanutils/commons-beanutils.svg)](http://www.javadoc.io/doc/commons-beanutils/commons-beanutils)
  [website](http://commons.apache.org/proper/commons-beanutils/)
 - commons-codec:commons-codec:1.10 [![Javadocs](http://www.javadoc.io/badge/commons-codec/commons-codec.svg)](http://www.javadoc.io/doc/commons-codec/commons-codec)
@@ -132,11 +132,11 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
  [website](https://github.com/mockito/mockito)
 - org.mockito:mockito-all:1.10.19 [![Javadocs](http://www.javadoc.io/badge/org.mockito/mockito-all.svg)](http://www.javadoc.io/doc/org.mockito/mockito-all)
  [website](https://github.com/mockito/mockito)
-- org.testng:testng:6.10 [![Javadocs](http://www.javadoc.io/badge/org.testng/testng.svg)](http://www.javadoc.io/doc/org.testng/testng
+- org.testng:testng:6.10 [![Javadocs](http://www.javadoc.io/badge/org.testng/testng.svg)](http://www.javadoc.io/doc/org.testng/testng)
  [website](https://github.com/cbeust/testng)
 
 ## Change Log
----
+
 ### [Unreleased]
 #### Added
 - add java doc;
