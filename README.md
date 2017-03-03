@@ -116,13 +116,13 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
  [website](https://logback.qos.ch/)
 - ch.qos.logback:logback-core:1.1.9 [![Javadocs](http://www.javadoc.io/badge/ch.qos.logback/logback-core.svg)](http://www.javadoc.io/doc/ch.qos.logback/logback-core)
  [website](https://logback.qos.ch/)
-- org.slf4j:slf4j-api:1.7.22 [![Javadocs](http://www.javadoc.io/badge/org.slf4j/slf4j-api.svg)](http://www.javadoc.io/doc/org.slf4j/slf4j-api)
+- org.slf4j:slf4j-api:1.7.24 [![Javadocs](http://www.javadoc.io/badge/org.slf4j/slf4j-api.svg)](http://www.javadoc.io/doc/org.slf4j/slf4j-api)
  [website](https://www.slf4j.org/)
-- org.slf4j:log4j-over-slf4j:1.7.22 [![Javadocs](http://www.javadoc.io/badge/org.slf4j/log4j-over-slf4j.svg)](http://www.javadoc.io/doc/org.slf4j/log4j-over-slf4j)
+- org.slf4j:log4j-over-slf4j:1.7.24 [![Javadocs](http://www.javadoc.io/badge/org.slf4j/log4j-over-slf4j.svg)](http://www.javadoc.io/doc/org.slf4j/log4j-over-slf4j)
  [website](https://www.slf4j.org/)
-- org.slf4j:jcl-over-slf4j:1.7.22 [![Javadocs](http://www.javadoc.io/badge/org.slf4j/jcl-over-slf4j.svg)](http://www.javadoc.io/doc/org.slf4j/jcl-over-slf4j)
+- org.slf4j:jcl-over-slf4j:1.7.24 [![Javadocs](http://www.javadoc.io/badge/org.slf4j/jcl-over-slf4j.svg)](http://www.javadoc.io/doc/org.slf4j/jcl-over-slf4j)
  [website](https://www.slf4j.org/)
-- org.slf4j:slf4j-log4j12:1.7.22 [![Javadocs](http://www.javadoc.io/badge/org.slf4j/slf4j-log4j12.svg)](http://www.javadoc.io/doc/org.slf4j/slf4j-log4j12)
+- org.slf4j:slf4j-log4j12:1.7.24 [![Javadocs](http://www.javadoc.io/badge/org.slf4j/slf4j-log4j12.svg)](http://www.javadoc.io/doc/org.slf4j/slf4j-log4j12)
  [website](https://www.slf4j.org/)
 - log4j:log4j:1.2.17 [![Javadocs](http://www.javadoc.io/badge/log4j/log4j.svg)](http://www.javadoc.io/doc/log4j/log4j)
  [website](https://logging.apache.org/log4j/1.2/)
@@ -142,6 +142,12 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
 ### 0.1.1 - 2017-03-02
 #### Added
 - add java doc;
+
+#### Changed
+- org.slf4j:slf4j-api:1.7.24
+- org.slf4j:log4j-over-slf4j:1.7.24
+- org.slf4j:jcl-over-slf4j:1.7.24
+- org.slf4j:slf4j-log4j12:1.7.24
 
 ### 0.1.0 - 2017-02-15
 #### Added
