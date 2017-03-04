@@ -139,7 +139,7 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
 
 ### [Unreleased]
 
-### [0.1.1] - 2017-03-02
+### [0.1.1] - 2017-03-04
 #### Added
 - add java doc;
 
