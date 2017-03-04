@@ -85,7 +85,7 @@
             <dependency>
                 <groupId>com.google.guava</groupId>
                 <artifactId>guava</artifactId>
-                <version>21.0</version>
+                <version>20.0</version>
                 <!-- [Javadocs](http://www.javadoc.io/doc/com.google.guava/guava) -->
             </dependency>
             <!-- guice -->
@@ -233,7 +233,7 @@
             <dependency>
                 <groupId>com.alibaba</groupId>
                 <artifactId>druid</artifactId>
-                <version>1.0.27</version>
+                <version>1.0.28</version>
                 <!-- [Javadocs](http://www.javadoc.io/doc/com.alibaba/druid) -->
             </dependency>
             <dependency>
@@ -251,7 +251,7 @@
             <dependency>
                 <groupId>mysql</groupId>
                 <artifactId>mysql-connector-java</artifactId>
-                <version>6.0.5</version>
+                <version>5.1.36</version>
                 <!-- [Javadocs](http://www.javadoc.io/doc/mysql/mysql-connector-java) -->
             </dependency>
             <dependency>
@@ -278,13 +278,13 @@
             <dependency>
                 <groupId>ch.qos.logback</groupId>
                 <artifactId>logback-classic</artifactId>
-                <version>1.1.9</version>
+                <version>1.2.1</version>
                 <!-- [Javadocs](http://www.javadoc.io/doc/ch.qos.logback/logback-classic) -->
             </dependency>
             <dependency>
                 <groupId>ch.qos.logback</groupId>
                 <artifactId>logback-core</artifactId>
-                <version>1.1.9</version>
+                <version>1.2.1</version>
                 <!-- [Javadocs](http://www.javadoc.io/doc/ch.qos.logback/logback-core) -->
             </dependency>
             <dependency>
@@ -330,7 +330,7 @@
             <dependency>
                 <groupId>org.mockito</groupId>
                 <artifactId>mockito-core</artifactId>
-                <version>2.6.9</version>
+                <version>2.7.13</version>
                 <scope>test</scope>
                 <!-- [Javadocs](http://www.javadoc.io/doc/org.mockito/mockito-core) -->
             </dependency>

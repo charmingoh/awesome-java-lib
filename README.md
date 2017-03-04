@@ -9,7 +9,7 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
 ```xml
 <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <awesome-java-lib.version>0.1.0</awesome-java-lib.version>
+    <awesome-java-lib.version>0.1.1</awesome-java-lib.version>
 </properties>
 
 <dependencyManagement>
@@ -60,7 +60,7 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
  [website](http://commons.apache.org/proper/commons-logging/)
 - org.apache.commons:commons-pool2:2.4.2 [![Javadocs](http://www.javadoc.io/badge/org.apache.commons/commons-pool2.svg)](http://www.javadoc.io/doc/org.apache.commons/commons-pool2)
  [website](http://commons.apache.org/proper/commons-pool/)
-- com.google.guava:guava:21.0 [![Javadocs](http://www.javadoc.io/badge/com.google.guava/guava.svg)](http://www.javadoc.io/doc/com.google.guava/guava)
+- com.google.guava:guava:20.0 [![Javadocs](http://www.javadoc.io/badge/com.google.guava/guava.svg)](http://www.javadoc.io/doc/com.google.guava/guava)
  [website](https://github.com/google/guava)
 - com.google.inject:guice:4.1.0 [![Javadocs](http://www.javadoc.io/badge/com.google.inject/guice.svg)](http://www.javadoc.io/doc/com.google.inject/guice)
  [website](https://github.com/google/guice)
@@ -98,13 +98,13 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
  [website](http://www.eclipse.org/aspectj/)
 - org.aspectj:aspectjweaver:1.8.10 [![Javadocs](http://www.javadoc.io/badge/org.aspectj/aspectjweaver.svg)](http://www.javadoc.io/doc/org.aspectj/aspectjweaver)
  [website](http://www.eclipse.org/aspectj/)
-- com.alibaba:druid:1.0.27 [![Javadocs](http://www.javadoc.io/badge/com.alibaba/druid.svg)](http://www.javadoc.io/doc/com.alibaba/druid)
+- com.alibaba:druid:1.0.28 [![Javadocs](http://www.javadoc.io/badge/com.alibaba/druid.svg)](http://www.javadoc.io/doc/com.alibaba/druid)
  [website](https://github.com/alibaba/druid)
 - org.mybatis:mybatis:3.4.2 [![Javadocs](http://www.javadoc.io/badge/org.mybatis/mybatis.svg)](http://www.javadoc.io/doc/org.mybatis/mybatis)
  [website](https://github.com/mybatis/mybatis-3)
 - org.mybatis:mybatis-spring:1.3.1 [![Javadocs](http://www.javadoc.io/badge/org.mybatis/mybatis-spring.svg)](http://www.javadoc.io/doc/org.mybatis/mybatis-spring)
  [website](https://github.com/mybatis/spring)
-- mysql:mysql-connector-java:6.0.5 [![Javadocs](http://www.javadoc.io/badge/mysql/mysql-connector-java.svg)](http://www.javadoc.io/doc/mysql/mysql-connector-java)
+- mysql:mysql-connector-java:5.1.36 [![Javadocs](http://www.javadoc.io/badge/mysql/mysql-connector-java.svg)](http://www.javadoc.io/doc/mysql/mysql-connector-java)
  [website](https://github.com/mysql/mysql-connector-j)
 - redis.clients:jedis:2.9.0 [![Javadocs](http://www.javadoc.io/badge/redis.clients/jedis.svg)](http://www.javadoc.io/doc/redis.clients/jedis)
  [website](https://github.com/xetorthio/jedis)
@@ -112,9 +112,9 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
  [website](https://docs.mongodb.com/ecosystem/drivers/java/)
 - org.mongodb:mongo-java-driver:3.4.2 [![Javadocs](http://www.javadoc.io/badge/org.mongodb/mongo-java-driver.svg)](http://www.javadoc.io/doc/org.mongodb/mongo-java-driver)
  [website](https://docs.mongodb.com/ecosystem/drivers/java/)
-- ch.qos.logback:logback-classic:1.1.9 [![Javadocs](http://www.javadoc.io/badge/ch.qos.logback/logback-classic.svg)](http://www.javadoc.io/doc/ch.qos.logback/logback-classic)
+- ch.qos.logback:logback-classic:1.2.1 [![Javadocs](http://www.javadoc.io/badge/ch.qos.logback/logback-classic.svg)](http://www.javadoc.io/doc/ch.qos.logback/logback-classic)
  [website](https://logback.qos.ch/)
-- ch.qos.logback:logback-core:1.1.9 [![Javadocs](http://www.javadoc.io/badge/ch.qos.logback/logback-core.svg)](http://www.javadoc.io/doc/ch.qos.logback/logback-core)
+- ch.qos.logback:logback-core:1.2.1 [![Javadocs](http://www.javadoc.io/badge/ch.qos.logback/logback-core.svg)](http://www.javadoc.io/doc/ch.qos.logback/logback-core)
  [website](https://logback.qos.ch/)
 - org.slf4j:slf4j-api:1.7.24 [![Javadocs](http://www.javadoc.io/badge/org.slf4j/slf4j-api.svg)](http://www.javadoc.io/doc/org.slf4j/slf4j-api)
  [website](https://www.slf4j.org/)
@@ -128,7 +128,7 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
  [website](https://logging.apache.org/log4j/1.2/)
 - junit:junit:4.12 [![Javadocs](http://www.javadoc.io/badge/junit/junit.svg)](http://www.javadoc.io/doc/junit/junit)
  [website](https://github.com/junit-team/junit4)
-- org.mockito:mockito-core:2.6.9 [![Javadocs](http://www.javadoc.io/badge/org.mockito/mockito-core.svg)](http://www.javadoc.io/doc/org.mockito/mockito-core)
+- org.mockito:mockito-core:2.7.13 [![Javadocs](http://www.javadoc.io/badge/org.mockito/mockito-core.svg)](http://www.javadoc.io/doc/org.mockito/mockito-core)
  [website](https://github.com/mockito/mockito)
 - org.mockito:mockito-all:1.10.19 [![Javadocs](http://www.javadoc.io/badge/org.mockito/mockito-all.svg)](http://www.javadoc.io/doc/org.mockito/mockito-all)
  [website](https://github.com/mockito/mockito)
@@ -143,13 +143,24 @@ With `awesome-java-lib`, you can add dependency(frequently used) without add `<v
 #### Added
 - add java doc;
 
+#### Fixed
+- downgrade guava and mysql version to support JDK 7;
+
 #### Changed
+- mysql:mysql-connector-java:5.1.36
+    - to support JDK 7
+- com.google.guava:guava:20.0
+    - to support JDK 7
+- com.alibaba:druid:1.0.28
+- ch.qos.logback:logback-classic:1.2.1
+- ch.qos.logback:logback-core:1.2.1
 - org.slf4j:slf4j-api:1.7.24
 - org.slf4j:log4j-over-slf4j:1.7.24
 - org.slf4j:jcl-over-slf4j:1.7.24
 - org.slf4j:slf4j-log4j12:1.7.24
+- org.mockito:mockito-core:2.7.13
 
-### 0.1.0 - 2017-02-15
+### 0.1.0 - 2017-02-15 [YANKED]
 #### Added
 - init
 
