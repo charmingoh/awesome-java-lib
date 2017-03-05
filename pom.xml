@@ -13,6 +13,11 @@
     <description>frequently used java libraries</description>
     <url>https://github.com/charmingoh/awesome-java-lib</url>
 
+    <issueManagement>
+        <system>Github Issue</system>
+        <url>https://github.com/charmingoh/awesome-java-lib/issues</url>
+    </issueManagement>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
@@ -416,9 +421,4 @@
         <developerConnection>scm:git:ssh://github.com:charmingoh/awesome-java-lib.git</developerConnection>
         <url>http://github.com/charmingoh/awesome-java-lib/tree/master</url>
     </scm>
-
-    <issueManagement>
-        <system>Github Issue</system>
-        <url>https://github.com/charmingoh/awesome-java-lib/issues</url>
-    </issueManagement>
 </project>
