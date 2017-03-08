@@ -1,4 +1,4 @@
 .idea
-awesome-java-lib.iml
+**.iml
 pom.xml.*
 **target
